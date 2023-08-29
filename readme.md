@@ -1,0 +1,1 @@
+This program generates a random number between 1 and 1000, and allows you to guess it. If you are too low, it says you are too low, and if you are too high, it says you are too high. When you guess it, it congratulates you, if you took less than 50 tries to do it. 
